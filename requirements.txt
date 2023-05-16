@@ -20,3 +20,5 @@ transformers
 yapf
 nltk
 fairscale
+SimpleITK
+VTK
